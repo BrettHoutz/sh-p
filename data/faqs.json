@@ -1,0 +1,167 @@
+[
+  {
+    "id": "7y6x5w4v3u",
+    "question": [
+      { "lang": "en", "value": "How do I track my order?" },
+      { "lang": "es", "value": "¿Cómo puedo rastrear mi pedido?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "You can track your order by logging into your account and visiting the 'Order History' section, or by using the tracking number provided in your shipping confirmation email." },
+      { "lang": "es", "value": "Puede rastrear su pedido iniciando sesión en su cuenta y visitando la sección 'Historial de pedidos', o utilizando el número de seguimiento proporcionado en su correo electrónico de confirmación de envío." }
+    ]
+  },
+  {
+    "id": "2a3b4c5d6e",
+    "question": [
+      { "lang": "en", "value": "What is your return policy?" },
+      { "lang": "es", "value": "¿Cuál es su política de devoluciones?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "We accept returns within 30 days of purchase. Items must be unused and in their original packaging with all tags attached." },
+      { "lang": "es", "value": "Aceptamos devoluciones dentro de los 30 días posteriores a la compra. Los artículos deben estar sin usar y en su embalaje original con todas las etiquetas adjuntas." }
+    ]
+  },
+  {
+    "id": "9z8y7x6w5v",
+    "question": [
+      { "lang": "en", "value": "Do you ship internationally?" },
+      { "lang": "es", "value": "¿Realizan envíos internacionales?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Yes, we ship to most countries worldwide. Shipping costs and delivery times vary depending on your location." },
+      { "lang": "es", "value": "Sí, enviamos a la mayoría de los países del mundo. Los costos de envío y los tiempos de entrega varían según su ubicación." }
+    ]
+  },
+  {
+    "id": "1q2w3e4r5t",
+    "question": [
+      { "lang": "en", "value": "How long does shipping take?" },
+      { "lang": "es", "value": "¿Cuánto tiempo tarda el envío?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Domestic orders typically arrive within 3-5 business days. International shipping can take 7-14 business days, depending on customs processing." },
+      { "lang": "es", "value": "Los pedidos nacionales suelen llegar en 3-5 días hábiles. El envío internacional puede tardar entre 7 y 14 días hábiles, dependiendo del procesamiento aduanero." }
+    ]
+  },
+  {
+    "id": "5t6y7u8i9o",
+    "question": [
+      { "lang": "en", "value": "How can I change or cancel my order?" },
+      { "lang": "es", "value": "¿Cómo puedo cambiar o cancelar mi pedido?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "You can request changes or cancellations by contacting our customer service team within 1 hour of placing your order. After this window, orders may already be in processing." },
+      { "lang": "es", "value": "Puede solicitar cambios o cancelaciones contactando a nuestro equipo de servicio al cliente dentro de 1 hora después de realizar su pedido. Después de este período, es posible que los pedidos ya estén en procesamiento." }
+    ]
+  },
+  {
+    "id": "6y7u8i9o0p",
+    "question": [
+      { "lang": "en", "value": "What payment methods do you accept?" },
+      { "lang": "es", "value": "¿Qué métodos de pago aceptan?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, Apple Pay, and Google Pay." },
+      { "lang": "es", "value": "Aceptamos todas las principales tarjetas de crédito (Visa, Mastercard, American Express), PayPal, Apple Pay y Google Pay." }
+    ]
+  },
+  {
+    "id": "3e4r5t6y7u",
+    "question": [
+      { "lang": "en", "value": "Are my payment details secure?" },
+      { "lang": "es", "value": "¿Están seguros mis datos de pago?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Yes, we use industry-standard SSL encryption to protect your payment information. We never store your full credit card details on our servers." },
+      { "lang": "es", "value": "Sí, utilizamos encriptación SSL estándar de la industria para proteger su información de pago. Nunca almacenamos los detalles completos de su tarjeta de crédito en nuestros servidores." }
+    ]
+  },
+  {
+    "id": "8i9o0p1q2w",
+    "question": [
+      { "lang": "en", "value": "Do you offer gift wrapping?" },
+      { "lang": "es", "value": "¿Ofrecen envoltura de regalo?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Yes, we offer gift wrapping for an additional $5 per item. You can select this option during checkout and include a personalized message." },
+      { "lang": "es", "value": "Sí, ofrecemos envoltura de regalo por $5 adicionales por artículo. Puede seleccionar esta opción durante el pago e incluir un mensaje personalizado." }
+    ]
+  },
+  {
+    "id": "4r5t6y7u8i",
+    "question": [
+      { "lang": "en", "value": "How do I create an account?" },
+      { "lang": "es", "value": "¿Cómo creo una cuenta?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Click on the 'Account' icon in the top right corner of our website and select 'Create Account'. Fill in your details and follow the instructions to complete registration." },
+      { "lang": "es", "value": "Haga clic en el icono 'Cuenta' en la esquina superior derecha de nuestro sitio web y seleccione 'Crear cuenta'. Complete sus datos y siga las instrucciones para completar el registro." }
+    ]
+  },
+  {
+    "id": "0p1q2w3e4r",
+    "question": [
+      { "lang": "en", "value": "I forgot my password. How do I reset it?" },
+      { "lang": "es", "value": "Olvidé mi contraseña. ¿Cómo la restablezco?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "On the login page, click 'Forgot Password'. Enter your email address, and we'll send you a link to reset your password." },
+      { "lang": "es", "value": "En la página de inicio de sesión, haga clic en 'Olvidé mi contraseña'. Ingrese su dirección de correo electrónico y le enviaremos un enlace para restablecer su contraseña." }
+    ]
+  },
+  {
+    "id": "2w3e4r5t6y",
+    "question": [
+      { "lang": "en", "value": "Do you offer discounts or promotions?" },
+      { "lang": "es", "value": "¿Ofrecen descuentos o promociones?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Yes, we regularly offer seasonal sales and promotions. Subscribe to our newsletter to stay updated on our latest deals and exclusive offers." },
+      { "lang": "es", "value": "Sí, regularmente ofrecemos ventas y promociones de temporada. Suscríbase a nuestro boletín para mantenerse actualizado sobre nuestras últimas ofertas y promociones exclusivas." }
+    ]
+  },
+  {
+    "id": "7u8i9o0p1q",
+    "question": [
+      { "lang": "en", "value": "How can I contact customer service?" },
+      { "lang": "es", "value": "¿Cómo puedo contactar al servicio al cliente?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "You can reach our customer service team via email at support@example.com, by phone at 1-800-123-4567, or through the live chat feature on our website." },
+      { "lang": "es", "value": "Puede comunicarse con nuestro equipo de servicio al cliente por correo electrónico a support@example.com, por teléfono al 1-800-123-4567 o a través de la función de chat en vivo en nuestro sitio web." }
+    ]
+  },
+  {
+    "id": "5t6y7u8i9o",
+    "question": [
+      { "lang": "en", "value": "What is your warranty policy?" },
+      { "lang": "es", "value": "¿Cuál es su política de garantía?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Our products come with a standard 1-year warranty against manufacturing defects. Some premium items may have extended warranty options available at purchase." },
+      { "lang": "es", "value": "Nuestros productos vienen con una garantía estándar de 1 año contra defectos de fabricación. Algunos artículos premium pueden tener opciones de garantía extendida disponibles al momento de la compra." }
+    ]
+  },
+  {
+    "id": "9o0p1q2w3e",
+    "question": [
+      { "lang": "en", "value": "Do you have a loyalty program?" },
+      { "lang": "es", "value": "¿Tienen un programa de fidelidad?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "Yes, our loyalty program rewards you with points for every purchase. These points can be redeemed for discounts on future orders or exclusive products." },
+      { "lang": "es", "value": "Sí, nuestro programa de fidelidad le recompensa con puntos por cada compra. Estos puntos pueden canjearse por descuentos en pedidos futuros o productos exclusivos." }
+    ]
+  },
+  {
+    "id": "1a2s3d4f5g",
+    "question": [
+      { "lang": "en", "value": "How do I check the status of my refund?" },
+      { "lang": "es", "value": "¿Cómo puedo verificar el estado de mi reembolso?" }
+    ],
+    "answer": [
+      { "lang": "en", "value": "You can check your refund status by logging into your account and viewing your order history. Refunds typically process within 5-10 business days, depending on your payment method." },
+      { "lang": "es", "value": "Puede verificar el estado de su reembolso iniciando sesión en su cuenta y viendo su historial de pedidos. Los reembolsos generalmente se procesan dentro de 5-10 días hábiles, dependiendo de su método de pago." }
+    ]
+  }
+]

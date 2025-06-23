@@ -1,0 +1,27 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## About the Project
+
+This is a brutalist, text only website. There are no backgrounds, images, borders, underlines, icons, or other ornaments unless explicitly mentioned. All text is the same size and same weight. The goal is a noncomplex design that showcases Next.js. Unique colors will be used in different components to highlight their use.
+
+## Important Code Instructions
+
+- Be terse. Do not try to create code that is not asked for. Do not create examples.
+- This project uses the latest version of Next.js 15. Remember that things like params, cookies, and headers are promises
+- We are not using shadcn. Do not suggest shadcn components or radix packages. Keep components simple and native whenever possible
+- We will use experimental features like PPR
+- This project uses Tailwind 4 and should never create a tailwind.config.ts file
+- The app directory is only for layout/page/route files only
+- html color names should be used for styling, like `bg-[black]` or `text-[lime]`
+- Unless specified, margin should never be used. Vertical rhythm should use gap classes in parent elements.
+
+## Code Style
+
+- Prefer a named function over a const
+- Prefer the receive object return object (RORO) pattern for functions
+- Prefer components/component-name/index.tsx over components/component-name.tsx
+- Alphabetize when possible
+- Client only libs should go in lib/**/client.ts, server only libs should go in lib/**/server.ts, server actions should go in lib/**/actions.ts, and isomorphic libs should go in lib/**/index.ts

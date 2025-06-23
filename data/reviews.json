@@ -1,0 +1,278 @@
+[
+  {
+    "id": "1",
+    "firstName": "Alex",
+    "lastName": "Smith",
+    "rating": 5,
+    "title": "Excellent Quality",
+    "description": "Impressed by the quality and comfort. It fits well and feels durable through regular use.",
+    "productSlugs": []
+  },
+  {
+    "id": "2",
+    "firstName": "Taylor",
+    "lastName": "Brown",
+    "rating": 4,
+    "title": "Good Fit",
+    "description": "The sizing is accurate, and it feels comfortable. Looks and feels like it will last.",
+    "productSlugs": []
+  },
+  {
+    "id": "3",
+    "firstName": "Jordan",
+    "lastName": "Lee",
+    "rating": 5,
+    "title": "Very Comfortable",
+    "description": "Extremely comfortable and easy to wear all day. The material feels soft and flexible.",
+    "productSlugs": []
+  },
+  {
+    "id": "4",
+    "firstName": "Morgan",
+    "lastName": "Davis",
+    "rating": 3,
+    "title": "Average Experience",
+    "description": "It meets basic expectations but lacks standout features. The overall feel is acceptable.",
+    "productSlugs": []
+  },
+  {
+    "id": "5",
+    "firstName": "Casey",
+    "lastName": "Miller",
+    "rating": 2,
+    "title": "Not Satisfied",
+    "description": "The product did not meet my expectations. The fit was off and the material felt cheap.",
+    "productSlugs": []
+  },
+  {
+    "id": "6",
+    "firstName": "Jamie",
+    "lastName": "Wilson",
+    "rating": 4,
+    "title": "Comfortable Choice",
+    "description": "Comfortable and functional for daily wear. A reliable choice that performs as expected.",
+    "productSlugs": [
+      "mistflux"
+    ]
+  },
+  {
+    "id": "7",
+    "firstName": "Chris",
+    "lastName": "Moore",
+    "rating": 5,
+    "title": "Highly Recommend",
+    "description": "I recommend this to anyone looking for a reliable and comfortable item. It exceeded my expectations.",
+    "productSlugs": []
+  },
+  {
+    "id": "8",
+    "firstName": "Pat",
+    "lastName": "Taylor",
+    "rating": 5,
+    "title": "Great Value",
+    "description": "Offers great value for the price. Feels sturdy and well-made for regular use.",
+    "productSlugs": []
+  },
+  {
+    "id": "9",
+    "firstName": "Dana",
+    "lastName": "Anderson",
+    "rating": 3,
+    "title": "Okay Quality",
+    "description": "Quality is average and performance is satisfactory. It does the job without impressing.",
+    "productSlugs": []
+  },
+  {
+    "id": "10",
+    "firstName": "Riley",
+    "lastName": "Thomas",
+    "rating": 4,
+    "title": "Solid Purchase",
+    "description": "A solid purchase that delivers comfort and durability. Would buy again in the future.",
+    "productSlugs": [
+      "mistflux"
+    ]
+  },
+  {
+    "id": "11",
+    "firstName": "Sam",
+    "lastName": "Martin",
+    "rating": 3,
+    "title": "Decent Performance",
+    "description": "Works as expected with no major issues; average feel but serves its purpose well.",
+    "productSlugs": []
+  },
+  {
+    "id": "12",
+    "firstName": "Cameron",
+    "lastName": "Davis",
+    "rating": 4,
+    "title": "Dependable Item",
+    "description": "A dependable item that holds up well over time; comfortable and reliable for regular use.",
+    "productSlugs": []
+  },
+  {
+    "id": "13",
+    "firstName": "Robin",
+    "lastName": "Smith",
+    "rating": 2,
+    "title": "Below Expectations",
+    "description": "Did not meet my expectations; the fit was off and the material felt less durable than promised.",
+    "productSlugs": []
+  },
+  {
+    "id": "14",
+    "firstName": "Leslie",
+    "lastName": "Garcia",
+    "rating": 5,
+    "title": "Exceeded Expectations",
+    "description": "Exceeded expectations in both comfort and durability; I'm very satisfied with this purchase.",
+    "productSlugs": []
+  },
+  {
+    "id": "15",
+    "firstName": "Jesse",
+    "lastName": "Nguyen",
+    "rating": 4,
+    "title": "Good Overall",
+    "description": "Good overall quality and fit; impressed by how well it performs with daily use.",
+    "productSlugs": []
+  },
+  {
+    "id": "16",
+    "firstName": "Avery",
+    "lastName": "Patel",
+    "rating": 3,
+    "title": "Average Quality",
+    "description": "Quality is average; acceptable for the price but lacks standout features.",
+    "productSlugs": []
+  },
+  {
+    "id": "17",
+    "firstName": "Drew",
+    "lastName": "Hernandez",
+    "rating": 5,
+    "title": "Highly Satisfied",
+    "description": "Highly satisfied with the purchase; it offers great comfort and solid build quality.",
+    "productSlugs": []
+  },
+  {
+    "id": "18",
+    "firstName": "Morgan",
+    "lastName": "Young",
+    "rating": 2,
+    "title": "Disappointed",
+    "description": "Disappointed with the overall feel and construction; it did not hold up as I hoped.",
+    "productSlugs": []
+  },
+  {
+    "id": "19",
+    "firstName": "Alex",
+    "lastName": "Ramirez",
+    "rating": 4,
+    "title": "Worth the Price",
+    "description": "Worth the price paid; offers a good balance of comfort and durability for everyday use.",
+    "productSlugs": []
+  },
+  {
+    "id": "20",
+    "firstName": "Quinn",
+    "lastName": "Thompson",
+    "rating": 3,
+    "title": "So-so Experience",
+    "description": "A so-so experience; meets basic needs but nothing stands out to impress me.",
+    "productSlugs": []
+  },
+  {
+    "id": "21",
+    "firstName": "Taylor",
+    "lastName": "Green",
+    "rating": 5,
+    "title": "Outstanding Performance",
+    "description": "Absolutely outstanding in every way, offering top-notch comfort and durability that exceeded my expectations.",
+    "productSlugs": []
+  },
+  {
+    "id": "22",
+    "firstName": "Cameron",
+    "lastName": "Lee",
+    "rating": 5,
+    "title": "Exceptional Comfort",
+    "description": "Extremely pleased with the performance and quality; it delivers exceptional comfort and lasting reliability.",
+    "productSlugs": []
+  },
+  {
+    "id": "23",
+    "firstName": "Jordan",
+    "lastName": "Patel",
+    "rating": 5,
+    "title": "Truly Fantastic",
+    "description": "Truly fantastic experience—combines comfort and build quality seamlessly, making it a top choice.",
+    "productSlugs": []
+  },
+  {
+    "id": "24",
+    "firstName": "Morgan",
+    "lastName": "Reyes",
+    "rating": 5,
+    "title": "Highly Impressed",
+    "description": "I'm thoroughly impressed with the quality and comfort; it has become my go-to option for everyday use.",
+    "productSlugs": []
+  },
+  {
+    "id": "25",
+    "firstName": "Jamie",
+    "lastName": "Khan",
+    "rating": 5,
+    "title": "Exceeded Expectations",
+    "description": "Exceeded expectations in both comfort and durability; I'm very satisfied with this purchase.",
+    "productSlugs": []
+  },
+  {
+    "id": "26",
+    "firstName": "Alex",
+    "lastName": "Norris",
+    "rating": 5,
+    "title": "Perfect Purchase",
+    "description": "Delivers on every promise—superb comfort, quality, and longevity make this a highly recommended choice.",
+    "productSlugs": []
+  },
+  {
+    "id": "27",
+    "firstName": "Pat",
+    "lastName": "Stewart",
+    "rating": 5,
+    "title": "Remarkable Quality",
+    "description": "Remarkable quality and comfort; I'm impressed by how well it holds up and feels during use.",
+    "productSlugs": []
+  },
+  {
+    "id": "28",
+    "firstName": "Riley",
+    "lastName": "Fisher",
+    "rating": 5,
+    "title": "Highly Recommended",
+    "description": "Highly recommend this for anyone seeking reliability and comfort—it combines both flawlessly.",
+    "productSlugs": []
+  },
+  {
+    "id": "29",
+    "firstName": "Casey",
+    "lastName": "Reid",
+    "rating": 5,
+    "title": "Fantastic Value",
+    "description": "Exceeded all expectations in terms of comfort and build quality; a fantastic value overall.",
+    "productSlugs": [
+      "mistflux"
+    ]
+  },
+  {
+    "id": "30",
+    "firstName": "Sam",
+    "lastName": "Morgan",
+    "rating": 5,
+    "title": "Top-notch Quality",
+    "description": "Top-notch quality and comfort; this product delivers reliability and satisfaction every time.",
+    "productSlugs": []
+  }
+]

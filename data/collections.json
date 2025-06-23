@@ -1,0 +1,531 @@
+[
+  {
+    "slug": "tee",
+    "title": [
+      {
+        "lang": "en",
+        "value": "T-Shirts"
+      },
+      {
+        "lang": "es",
+        "value": "Camisetas"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Premium quality t-shirts for everyday comfort. Made with soft, breathable fabrics that last."
+      },
+      {
+        "lang": "es",
+        "value": "Camisetas de calidad premium para comodidad diaria. Fabricadas con telas suaves y transpirables que duran."
+      }
+    ]
+  },
+  {
+    "slug": "jacket",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Jackets"
+      },
+      {
+        "lang": "es",
+        "value": "Chaquetas"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Stylish and durable jackets for all seasons. Designed for both protection and fashion."
+      },
+      {
+        "lang": "es",
+        "value": "Chaquetas elegantes y duraderas para todas las estaciones. Diseñadas tanto para protección como para moda."
+      }
+    ]
+  },
+  {
+    "slug": "hoodie",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Hoodies"
+      },
+      {
+        "lang": "es",
+        "value": "Sudaderas con Capucha"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Cozy hoodies perfect for layering or lounging. Featuring soft interior lining and practical pockets."
+      },
+      {
+        "lang": "es",
+        "value": "Sudaderas acogedoras perfectas para capas o descanso. Con forro interior suave y bolsillos prácticos."
+      }
+    ]
+  },
+  {
+    "slug": "sweatshirt",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Sweatshirts"
+      },
+      {
+        "lang": "es",
+        "value": "Sudaderas"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Classic sweatshirts that combine comfort and style. Perfect for casual outings or relaxing at home."
+      },
+      {
+        "lang": "es",
+        "value": "Sudaderas clásicas que combinan comodidad y estilo. Perfectas para salidas casuales o relajarse en casa."
+      }
+    ]
+  },
+  {
+    "slug": "parka",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Parkas"
+      },
+      {
+        "lang": "es",
+        "value": "Parkas"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Heavy-duty parkas designed for maximum warmth and protection in cold weather conditions."
+      },
+      {
+        "lang": "es",
+        "value": "Parkas resistentes diseñadas para máxima calidez y protección en condiciones climáticas frías."
+      }
+    ]
+  },
+  {
+    "slug": "beige",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Beige"
+      },
+      {
+        "lang": "es",
+        "value": "Beige"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elegant and understated beige tones that complement any wardrobe. This versatile neutral adds warmth and sophistication to casual and formal outfits alike."
+      },
+      {
+        "lang": "es",
+        "value": "Elegantes y discretos tonos beige que complementan cualquier guardarropa. Este versátil color neutro añade calidez y sofisticación tanto a conjuntos casuales como formales."
+      }
+    ]
+  },
+  {
+    "slug": "black",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Black"
+      },
+      {
+        "lang": "es",
+        "value": "Negro"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Timeless black pieces for effortless style. This essential color offers versatility and elegance, perfect for creating countless outfit combinations for any occasion."
+      },
+      {
+        "lang": "es",
+        "value": "Piezas negras atemporales para un estilo sin esfuerzo. Este color esencial ofrece versatilidad y elegancia, perfecto para crear innumerables combinaciones para cualquier ocasión."
+      }
+    ]
+  },
+  {
+    "slug": "blue",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Blue"
+      },
+      {
+        "lang": "es",
+        "value": "Azul"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Refreshing blue shades from navy to sky blue. This calming yet striking color brings depth and serenity to your wardrobe while remaining eternally fashionable."
+      },
+      {
+        "lang": "es",
+        "value": "Refrescantes tonos azules desde marino hasta celeste. Este color calmante pero impactante aporta profundidad y serenidad a tu guardarropa mientras permanece eternamente de moda."
+      }
+    ]
+  },
+  {
+    "slug": "brown",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Brown"
+      },
+      {
+        "lang": "es",
+        "value": "Marrón"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Rich brown tones that evoke warmth and earthiness. This grounding color creates a sense of stability and comfort, perfect for creating timeless, natural looks."
+      },
+      {
+        "lang": "es",
+        "value": "Ricos tonos marrones que evocan calidez y naturalidad. Este color estabilizador crea una sensación de solidez y confort, perfecto para crear looks naturales y atemporales."
+      }
+    ]
+  },
+  {
+    "slug": "gray",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Gray"
+      },
+      {
+        "lang": "es",
+        "value": "Gris"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Sophisticated gray tones from charcoal to silver. This modern neutral bridges the gap between casual and formal wear, offering endless styling possibilities."
+      },
+      {
+        "lang": "es",
+        "value": "Sofisticados tonos grises desde carbón hasta plateado. Este neutro moderno cierra la brecha entre ropa casual y formal, ofreciendo infinitas posibilidades de estilo."
+      }
+    ]
+  },
+  {
+    "slug": "green",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Green"
+      },
+      {
+        "lang": "es",
+        "value": "Verde"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Vibrant green hues inspired by nature. This refreshing color brings vitality and harmony to your wardrobe, perfect for adding a touch of natural energy to any outfit."
+      },
+      {
+        "lang": "es",
+        "value": "Vibrantes tonos verdes inspirados en la naturaleza. Este color refrescante aporta vitalidad y armonía a tu guardarropa, perfecto para añadir un toque de energía natural a cualquier conjunto."
+      }
+    ]
+  },
+  {
+    "slug": "orange",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Orange"
+      },
+      {
+        "lang": "es",
+        "value": "Naranja"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Bold and energetic orange tones that make a statement. This vibrant color infuses warmth and enthusiasm into your wardrobe, perfect for creating eye-catching, confident looks."
+      },
+      {
+        "lang": "es",
+        "value": "Tonos naranjas audaces y enérgicos que destacan. Este vibrante color infunde calidez y entusiasmo en tu guardarropa, perfecto para crear looks llamativos y seguros."
+      }
+    ]
+  },
+  {
+    "slug": "pink",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Pink"
+      },
+      {
+        "lang": "es",
+        "value": "Rosa"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Delicate pink shades from blush to fuchsia. This playful yet sophisticated color adds a touch of romance and joy to your look, softening and brightening any ensemble."
+      },
+      {
+        "lang": "es",
+        "value": "Delicados tonos rosados desde rubor hasta fucsia. Este color juguetón pero sofisticado añade un toque de romance y alegría a tu look, suavizando e iluminando cualquier conjunto."
+      }
+    ]
+  },
+  {
+    "slug": "purple",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Purple"
+      },
+      {
+        "lang": "es",
+        "value": "Morado"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Regal purple tones from lavender to deep violet. This mysterious and luxurious color evokes creativity and individuality, adding depth and intrigue to your wardrobe."
+      },
+      {
+        "lang": "es",
+        "value": "Regios tonos morados desde lavanda hasta violeta intenso. Este color misterioso y lujoso evoca creatividad e individualidad, añadiendo profundidad e intriga a tu guardarropa."
+      }
+    ]
+  },
+  {
+    "slug": "red",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Red"
+      },
+      {
+        "lang": "es",
+        "value": "Rojo"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Passionate red hues that command attention. This powerful color symbolizes confidence and energy, making a bold statement in any outfit from casual to formal wear."
+      },
+      {
+        "lang": "es",
+        "value": "Apasionados tonos rojos que captan la atención. Este poderoso color simboliza confianza y energía, haciendo una declaración audaz en cualquier atuendo desde casual hasta formal."
+      }
+    ]
+  },
+  {
+    "slug": "white",
+    "title": [
+      {
+        "lang": "en",
+        "value": "White"
+      },
+      {
+        "lang": "es",
+        "value": "Blanco"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Crisp white pieces for a clean, timeless aesthetic. This essential color brings brightness and versatility to your wardrobe, creating a foundation for countless style combinations."
+      },
+      {
+        "lang": "es",
+        "value": "Piezas blancas nítidas para una estética limpia y atemporal. Este color esencial aporta luminosidad y versatilidad a tu guardarropa, creando una base para innumerables combinaciones de estilo."
+      }
+    ]
+  },
+  {
+    "slug": "yellow",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Yellow"
+      },
+      {
+        "lang": "es",
+        "value": "Amarillo"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Sunny yellow tones from pale butter to vibrant gold. This cheerful color radiates optimism and energy, instantly brightening your wardrobe and lifting your mood."
+      },
+      {
+        "lang": "es",
+        "value": "Tonos amarillos soleados desde mantequilla pálida hasta oro vibrante. Este alegre color irradia optimismo y energía, iluminando instantáneamente tu guardarropa y elevando tu estado de ánimo."
+      }
+    ]
+  },
+  {
+    "slug": "men",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Men"
+      },
+      {
+        "lang": "es",
+        "value": "Hombres"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Contemporary menswear designed for style and functionality. Our men's collection features carefully tailored pieces that blend classic elements with modern trends for everyday confidence."
+      },
+      {
+        "lang": "es",
+        "value": "Ropa masculina contemporánea diseñada para estilo y funcionalidad. Nuestra colección para hombres presenta piezas cuidadosamente confeccionadas que mezclan elementos clásicos con tendencias modernas para confianza diaria."
+      }
+    ]
+  },
+  {
+    "slug": "women",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Women"
+      },
+      {
+        "lang": "es",
+        "value": "Mujeres"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Versatile womenswear crafted for comfort and expression. Our women's collection combines thoughtful design with quality materials, creating pieces that effortlessly transition between occasions and seasons."
+      },
+      {
+        "lang": "es",
+        "value": "Ropa femenina versátil elaborada para comodidad y expresión. Nuestra colección para mujeres combina diseño reflexivo con materiales de calidad, creando piezas que transitan sin esfuerzo entre ocasiones y temporadas."
+      }
+    ]
+  },
+  {
+    "slug": "unisex",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Unisex"
+      },
+      {
+        "lang": "es",
+        "value": "Unisex"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Inclusive clothing designed for everyone regardless of gender identity. Our unisex collection features adaptable silhouettes and sizes that embrace diversity while delivering comfort and contemporary style."
+      },
+      {
+        "lang": "es",
+        "value": "Ropa inclusiva diseñada para todos sin importar la identidad de género. Nuestra colección unisex presenta siluetas y tallas adaptables que abrazan la diversidad mientras ofrecen comodidad y estilo contemporáneo."
+      }
+    ]
+  },
+  {
+    "slug": "youth",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Youth"
+      },
+      {
+        "lang": "es",
+        "value": "Juventud"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Playful and practical clothing for younger generations. Our youth collection balances durability with vibrant design, creating pieces that keep up with active lifestyles while expressing personality."
+      },
+      {
+        "lang": "es",
+        "value": "Ropa divertida y práctica para generaciones más jóvenes. Nuestra colección juvenil equilibra durabilidad con diseño vibrante, creando piezas que mantienen estilos de vida activos mientras expresan personalidad."
+      }
+    ]
+  },
+  {
+    "slug": "new-arrival",
+    "title": [
+      {
+        "lang": "en",
+        "value": "New Arrivals"
+      },
+      {
+        "lang": "es",
+        "value": "Novedades"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "The latest additions to our collection, fresh from the design studio. Discover cutting-edge styles, innovative materials, and seasonal must-haves before they're gone."
+      },
+      {
+        "lang": "es",
+        "value": "Las últimas incorporaciones a nuestra colección, recién salidas del estudio de diseño. Descubre estilos de vanguardia, materiales innovadores e imprescindibles de temporada antes de que se agoten."
+      }
+    ]
+  },
+  {
+    "slug": "best-seller",
+    "title": [
+      {
+        "lang": "en",
+        "value": "Best Sellers"
+      },
+      {
+        "lang": "es",
+        "value": "Los Más Vendidos"
+      }
+    ],
+    "description": [
+      {
+        "lang": "en",
+        "value": "Our most popular items chosen by customers like you. These crowd favorites have earned their status through exceptional quality, timeless design, and consistent positive feedback."
+      },
+      {
+        "lang": "es",
+        "value": "Nuestros artículos más populares elegidos por clientes como tú. Estos favoritos del público han ganado su estatus por su calidad excepcional, diseño atemporal y constantes comentarios positivos."
+      }
+    ]
+  }
+]

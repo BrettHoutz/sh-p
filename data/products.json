@@ -1,0 +1,3387 @@
+[
+  {
+    "id": "U_kPs7RpnFkZyppanQKA6",
+    "title": "MistFlux",
+    "slug": "mistflux",
+    "demographic": "women",
+    "type": "parka",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the MistFlux parka: a premium athleisure essential, blending style and comfort for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la parka MistFlux: un esencial de athleisure premium, que combina estilo y comodidad para cada aventura."
+      }
+    ],
+    "keywords": [
+      "best-seller",
+      "women",
+      "parka",
+      "gray",
+      "green",
+      "pink"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "rb7KX_wH3-Om4ZXUKe-AR",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 16
+      },
+      {
+        "id": "gzcWesc1aGC5cu85Xm5sf",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 65
+      },
+      {
+        "id": "U2-u2LKAofxZUTXlBYwNQ",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 2
+      },
+      {
+        "id": "geV568tiGxW_55wdh1mbV",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 45
+      },
+      {
+        "id": "ll7F0va32AjlXtxpMFKMK",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 58
+      },
+      {
+        "id": "q9SlurCWc76af1yNReJbT",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 61
+      },
+      {
+        "id": "4oLxTxlJXduM7iZ3W9oAO",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 57
+      },
+      {
+        "id": "gAFSvpUMMuSN6IYT1PyD1",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 7
+      },
+      {
+        "id": "QXXRx0D23LzcIeXXKKxE3",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 28
+      },
+      {
+        "id": "WLOyJis13eL2NBaJvCQt9",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 28
+      },
+      {
+        "id": "m8wYIsCeCrKn7JdxDYdK5",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 68
+      },
+      {
+        "id": "px_2o-Yy_5OYiWf7-8ly7",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 21
+      },
+      {
+        "id": "aeZlIWEfC-YR3F9stsDAu",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 73
+      },
+      {
+        "id": "G6GM7vEeF6BLtp6u89Nu2",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 5
+      },
+      {
+        "id": "DxNqfUsAyCUSx5gaZ6s6K",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 7,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746326306850,
+    "editedAt": 1749244439576
+  },
+  {
+    "id": "hGQtwVjtaXgTizVNqBtFj",
+    "title": "NovaSage",
+    "slug": "novasage",
+    "demographic": "women",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the NovaSage sweatshirt, a premium athleisure piece that combines comfort and elegance effortlessly."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera NovaSage, una prenda de athleisure premium que combina comodidad y elegancia sin esfuerzo."
+      }
+    ],
+    "keywords": [
+      "women",
+      "sweatshirt",
+      "yellow",
+      "orange",
+      "brown"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "pFrgm_1pXBIsspWIJYvUt",
+        "color": "yellow",
+        "size": "xs",
+        "key": "yellow-xs",
+        "quantity": 9
+      },
+      {
+        "id": "slMwSdsTUDJnO_zD6lhyz",
+        "color": "yellow",
+        "size": "sm",
+        "key": "yellow-sm",
+        "quantity": 75
+      },
+      {
+        "id": "XFIovr_4YEh1XzBUBtEl2",
+        "color": "yellow",
+        "size": "md",
+        "key": "yellow-md",
+        "quantity": 64
+      },
+      {
+        "id": "ynmlqSYWg8O1kRL-cSzOu",
+        "color": "yellow",
+        "size": "lg",
+        "key": "yellow-lg",
+        "quantity": 72
+      },
+      {
+        "id": "1klEXMIsX0AbFvkDwB48v",
+        "color": "yellow",
+        "size": "xl",
+        "key": "yellow-xl",
+        "quantity": 72
+      },
+      {
+        "id": "0TWsiHNxlL77pjfSCrBlT",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 0
+      },
+      {
+        "id": "7qqn5i5w6jVKpgWfhE6z8",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 71
+      },
+      {
+        "id": "VDMOd57hg-wOdQC6K1BRQ",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 16
+      },
+      {
+        "id": "Zc90LGcmM4hVKZ39rVV55",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 14,
+        "isPrimary": true
+      },
+      {
+        "id": "T5oIJ0x1FaI_wbqT2tnb6",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 65
+      },
+      {
+        "id": "H4K-lkYnXzWws8Zb0jT9N",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 68
+      },
+      {
+        "id": "2mXisRLBnSpNyWUORTlXF",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 60
+      },
+      {
+        "id": "LVyL2eOLTfFiIE0veLvbX",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 12
+      },
+      {
+        "id": "FnQEqsSCDG8Q4T-n34FCX",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 45
+      },
+      {
+        "id": "ednTubri3gvCldwx0UUG5",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 4
+      }
+    ],
+    "createdAt": 1746326323823,
+    "editedAt": 1746326323823
+  },
+  {
+    "id": "s0IpgmikB78mmgK9D-Ffr",
+    "title": "LoftPeak",
+    "slug": "loftpeak",
+    "demographic": "unisex",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with LoftPeak, the premium unisex sweatshirt designed for ultimate comfort and versatility in athleisure."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con LoftPeak, la sudadera unisex premium diseñada para la máxima comodidad y versatilidad en athleisure."
+      }
+    ],
+    "keywords": [
+      "unisex",
+      "sweatshirt",
+      "blue",
+      "beige",
+      "red"
+    ],
+    "price": 160,
+    "variants": [
+      {
+        "id": "vqaj4glBS0RDWhrDc1vZG",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 31
+      },
+      {
+        "id": "tlXqbH9vzlDzASIUFv-LE",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 48
+      },
+      {
+        "id": "ON-ma4Na9a709kWTbfaPK",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 53
+      },
+      {
+        "id": "TLLWYt1jLARHoW4RKvTJ1",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 25
+      },
+      {
+        "id": "b905FcNyDwVXL1KvzzFIs",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 48
+      },
+      {
+        "id": "NVElhHXTWmuSDwhubMlxH",
+        "color": "beige",
+        "size": "xs",
+        "key": "beige-xs",
+        "quantity": 65
+      },
+      {
+        "id": "5qD0JYPY5U9Hkiiq7RowG",
+        "color": "beige",
+        "size": "sm",
+        "key": "beige-sm",
+        "quantity": 5
+      },
+      {
+        "id": "PS713rKJsv3hoMdn0Aty0",
+        "color": "beige",
+        "size": "md",
+        "key": "beige-md",
+        "quantity": 19
+      },
+      {
+        "id": "IBKkbni5CsHVefhZiptrf",
+        "color": "beige",
+        "size": "lg",
+        "key": "beige-lg",
+        "quantity": 53
+      },
+      {
+        "id": "GkSBnlLY0swkdt_8LJJk5",
+        "color": "beige",
+        "size": "xl",
+        "key": "beige-xl",
+        "quantity": 10
+      },
+      {
+        "id": "-QU5HUx877gSEar8ODJqF",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 54,
+        "isPrimary": true
+      },
+      {
+        "id": "WNS09BkXdKVWPzYtrMIJC",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 13
+      },
+      {
+        "id": "D56EUYcEvcQ-BvzfvotIH",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 60
+      },
+      {
+        "id": "464-3TnVmR4Wi1FCvucEk",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 75
+      },
+      {
+        "id": "tYdKBAY8GGlIknaJil0_l",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 53
+      }
+    ],
+    "createdAt": 1746326361307,
+    "editedAt": 1746326361307
+  },
+  {
+    "id": "J3_1MV5GecREggx9-Z6l_",
+    "title": "NeoSpark",
+    "slug": "neospark",
+    "demographic": "men",
+    "type": "tee",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the NeoSpark tee, a premium athleisure essential that combines comfort and performance."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la camiseta NeoSpark, un esencial de athleisure premium que combina comodidad y rendimiento."
+      }
+    ],
+    "keywords": [
+      "men",
+      "tee",
+      "brown",
+      "yellow",
+      "pink"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "Rotig7YqXjb97nx3y9LWY",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 44
+      },
+      {
+        "id": "DzjD-kbeODDbvPR5MRO22",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 4,
+        "isPrimary": true
+      },
+      {
+        "id": "x94DTcVdLY38Pw95uTzza",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 36
+      },
+      {
+        "id": "_fJ7nO82H7-a3VlOPQmAS",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 43
+      },
+      {
+        "id": "opLHYJWTuHndMYcbXXqXo",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 65
+      },
+      {
+        "id": "ndjXjEc2XgjAPgWVZbnjB",
+        "color": "yellow",
+        "size": "xs",
+        "key": "yellow-xs",
+        "quantity": 44
+      },
+      {
+        "id": "WhxCZ74CxzIGQi9F3Uanz",
+        "color": "yellow",
+        "size": "sm",
+        "key": "yellow-sm",
+        "quantity": 26
+      },
+      {
+        "id": "xASrPfsYmLxmcIZOsgKkP",
+        "color": "yellow",
+        "size": "md",
+        "key": "yellow-md",
+        "quantity": 29
+      },
+      {
+        "id": "EyhrBfty3thpSxAh1QpT8",
+        "color": "yellow",
+        "size": "lg",
+        "key": "yellow-lg",
+        "quantity": 44
+      },
+      {
+        "id": "BKAtLtvvoPY2V4F7munhL",
+        "color": "yellow",
+        "size": "xl",
+        "key": "yellow-xl",
+        "quantity": 29
+      },
+      {
+        "id": "biQfX8IlpxR-E-AfJ_xZv",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 23
+      },
+      {
+        "id": "fAMZQ9QGoyP1cuaf4848i",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 39
+      },
+      {
+        "id": "9DGVNEqV8Kef0SZHPV8UY",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 75
+      },
+      {
+        "id": "JJ8KbExbfyApkJNRqAKk8",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 45
+      },
+      {
+        "id": "bYGVSd9Yn1KBz13hRKqfl",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 6
+      }
+    ],
+    "createdAt": 1746360615837,
+    "editedAt": 1746360615837
+  },
+  {
+    "id": "UWuOqojZi-GNlGvtK3ba_",
+    "title": "StrideSpark",
+    "slug": "stridespark",
+    "demographic": "women",
+    "type": "hoodie",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the StrideSpark hoodie, a premium athleisure essential for comfort and performance."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera StrideSpark, un esencial de athleisure premium para comodidad y rendimiento."
+      }
+    ],
+    "keywords": [
+      "women",
+      "hoodie",
+      "brown",
+      "white",
+      "blue"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "yvIzwQ4UNMywvREmLn1jn",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 13
+      },
+      {
+        "id": "Xr3ehji-nQICuGu4r1TKy",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 58
+      },
+      {
+        "id": "qtZXlltxkdJyV1df5ZcUU",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 58
+      },
+      {
+        "id": "RCFPLvYumC-SDbrD4lKaE",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 39
+      },
+      {
+        "id": "VxmkQmBr15PHAiK1ETJWZ",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 32
+      },
+      {
+        "id": "YQhkmv8QXOcEy7yMO9Y75",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 0
+      },
+      {
+        "id": "IWVAjvx9u5j2kjQJHmMG3",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 4
+      },
+      {
+        "id": "2GkhbQlxFGlNi1IpCkRDF",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 49
+      },
+      {
+        "id": "DOtnuIyi2OXpZE1ORni-R",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 55
+      },
+      {
+        "id": "mZG_NYJObvNBagXugA-rO",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 73
+      },
+      {
+        "id": "F5_4n-3kIHicnkzO9o9YN",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 30
+      },
+      {
+        "id": "6L0LJr2sdqsImVxj7zaBR",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 29
+      },
+      {
+        "id": "SXIN9h1Yu-273hxQzbQ5y",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 54
+      },
+      {
+        "id": "Srs1kqY5DrcxKM8wmN17Z",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 55
+      },
+      {
+        "id": "YyMma1eqnt1ap3P9xbaQq",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 3,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746360628017,
+    "editedAt": 1746360628017
+  },
+  {
+    "id": "P5b8T86p-kipQTgKEv22u",
+    "title": "HyperRealm",
+    "slug": "hyperrealm",
+    "demographic": "men",
+    "type": "hoodie",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the HyperRealm hoodie, a premium athleisure essential for comfort and performance."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera HyperRealm, un esencial de athleisure premium para comodidad y rendimiento."
+      }
+    ],
+    "keywords": [
+      "men",
+      "hoodie",
+      "orange",
+      "green",
+      "pink"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "RznJofPHFlYSTyBKLNGyx",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 62
+      },
+      {
+        "id": "va3fiKr4gAga41fslk4Mk",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 65
+      },
+      {
+        "id": "5cKqfmmtbc7PA5gXAJBgL",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 52,
+        "isPrimary": true
+      },
+      {
+        "id": "bDrE5tMf_bxr4VfImHtR_",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 45
+      },
+      {
+        "id": "gNYGZbWXfHSYUBvi9g883",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 70
+      },
+      {
+        "id": "_44xGc36p8HuimuYHaaRE",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 34
+      },
+      {
+        "id": "1zbPTe8zBXTMxGGG4S0Xi",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 31
+      },
+      {
+        "id": "AkkzgGVPR5w9QPSXnTkfj",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 57
+      },
+      {
+        "id": "r1gfLjO-HmvgKLXXxQmQ2",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 49
+      },
+      {
+        "id": "U6EIf1wJQkPKE2f3bTTvu",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 25
+      },
+      {
+        "id": "ypmbRAYSMtu3APrF5vsET",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 71
+      },
+      {
+        "id": "TH8SDP8CvCsBDMf5lKEnu",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 15
+      },
+      {
+        "id": "BKU6T9_FrEiYYXastFrsT",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 37
+      },
+      {
+        "id": "z52GcAYiDYQPcGHH_AfjF",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 5
+      },
+      {
+        "id": "5DEGy-pUiFStpi8AaVMJy",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 40
+      }
+    ],
+    "createdAt": 1746372375346,
+    "editedAt": 1746372375346
+  },
+  {
+    "id": "2kePvD9L5JVPuyDP8jAlZ",
+    "title": "AxisDrift",
+    "slug": "axisdrift",
+    "demographic": "youth",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing AxisDrift: a premium athleisure youth jacket that combines style, comfort, and performance for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos AxisDrift: una chaqueta juvenil premium de athleisure que combina estilo, comodidad y rendimiento para cada aventura."
+      }
+    ],
+    "keywords": [
+      "youth",
+      "jacket",
+      "green",
+      "gray",
+      "brown"
+    ],
+    "price": 160,
+    "variants": [
+      {
+        "id": "0e43YpjTSKUCOWnzy-IZC",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 66
+      },
+      {
+        "id": "umxyiXcYbd0QuKMT4DnMj",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 8
+      },
+      {
+        "id": "SKlH_k1nC49PZz2nUcc3y",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 52,
+        "isPrimary": true
+      },
+      {
+        "id": "lYGkgOC_Q-u8fJHVTyDZI",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 65
+      },
+      {
+        "id": "7vWHtNTsIg_qxWEHYkZec",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 5
+      },
+      {
+        "id": "T7LAW1YuEFH9Kw9g1dtaW",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 73
+      },
+      {
+        "id": "oSkXqbC8XePiE2_JJ6TtD",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 35
+      },
+      {
+        "id": "-msEGuFzrGdsungwIR_xq",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 63
+      },
+      {
+        "id": "qZuKHc03zLMX5gewCepHD",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 61
+      },
+      {
+        "id": "BxU9_0c5EJAh3VoDxhCWl",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 65
+      },
+      {
+        "id": "vTHlqleyd2h04hxNMKi76",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 42
+      },
+      {
+        "id": "nRGXCYQVGNouq2r8kdqJe",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 34
+      },
+      {
+        "id": "93LtAuoRTaEwv3ePVGZrp",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 26
+      },
+      {
+        "id": "FQ3NgqY5vpn20YJFmq30c",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 56
+      },
+      {
+        "id": "U5NnT2PPmhDBLe8ZCl_fL",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 15
+      }
+    ],
+    "createdAt": 1746372447829,
+    "editedAt": 1746372447829
+  },
+  {
+    "id": "_32Gp3Htd4pymqUqRVlLS",
+    "title": "DriftVolt",
+    "slug": "driftvolt",
+    "demographic": "youth",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with DriftVolt, the premium athleisure sweatshirt designed for comfort and performance."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con DriftVolt, la sudadera athleisure premium diseñada para comodidad y rendimiento."
+      }
+    ],
+    "keywords": [
+      "youth",
+      "sweatshirt",
+      "gray",
+      "orange",
+      "brown"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "mi9tnApBp0KQxCPrSoWsU",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 72
+      },
+      {
+        "id": "RiFOgFA8LYabJLAqtLrid",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 9
+      },
+      {
+        "id": "4gKcbBT7aJxGEgsdWY90W",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 27
+      },
+      {
+        "id": "2Qoth9QLOdYmxJ1NMmP_o",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 44
+      },
+      {
+        "id": "C4Zv8JuKY_gjBNw6juOcG",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 20
+      },
+      {
+        "id": "8OonTMxxH7NX5h3btlry2",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 72
+      },
+      {
+        "id": "C44XuYVq8hLAzdwVEOhON",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 26
+      },
+      {
+        "id": "jCDlTNRTSoIbfRHshugTn",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 47
+      },
+      {
+        "id": "zGErKcOJFfRWYXiq9bZeo",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 33
+      },
+      {
+        "id": "n3UMN7b86ngYXAY8rDYAT",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 64
+      },
+      {
+        "id": "yipLHowh3XGwO1QEoeZgU",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 0
+      },
+      {
+        "id": "s6A0nc4gn0dNJm24fsGAv",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 70
+      },
+      {
+        "id": "SqvFO2jfgHAS8o-Z5RNi3",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 75
+      },
+      {
+        "id": "TDEYeqvJLaarxK3zobRxi",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 1
+      },
+      {
+        "id": "rcfRxmHXDMXfdtQU5b1YJ",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 0,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746372531602,
+    "editedAt": 1746372531602
+  },
+  {
+    "id": "U4e5ZVpNrBpk4c9-lxJFv",
+    "title": "PhantomGlide",
+    "slug": "phantomglide",
+    "demographic": "women",
+    "type": "parka",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the PhantomGlide parka: a premium athleisure essential that combines style, comfort, and performance for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la parka PhantomGlide: un esencial de athleisure premium que combina estilo, comodidad y rendimiento para cada aventura."
+      }
+    ],
+    "keywords": [
+      "best-seller",
+      "women",
+      "parka",
+      "green",
+      "purple",
+      "white"
+    ],
+    "price": 160,
+    "variants": [
+      {
+        "id": "ucjJ59ysynOFfkAJDPAJv",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 32
+      },
+      {
+        "id": "d9gghauurZwDw6cwBuGzm",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 42
+      },
+      {
+        "id": "k0YKDpPZmAyTSG2ZA3xOX",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 2
+      },
+      {
+        "id": "p46tcpd3XUJr-kousECWE",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 62
+      },
+      {
+        "id": "TabFjOlCVW_oJsCdB2_Qm",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 43
+      },
+      {
+        "id": "oJn-5PHBbz6go3aUqoHGg",
+        "color": "purple",
+        "size": "xs",
+        "key": "purple-xs",
+        "quantity": 8,
+        "isPrimary": true
+      },
+      {
+        "id": "U6_wjzc1Vi6kmBA4sW0OP",
+        "color": "purple",
+        "size": "sm",
+        "key": "purple-sm",
+        "quantity": 73
+      },
+      {
+        "id": "QuIRRoSQi9xbhKCdH_Qut",
+        "color": "purple",
+        "size": "md",
+        "key": "purple-md",
+        "quantity": 8
+      },
+      {
+        "id": "5DZn-WH0Mz3uH3tLehFUk",
+        "color": "purple",
+        "size": "lg",
+        "key": "purple-lg",
+        "quantity": 66
+      },
+      {
+        "id": "_D4ctU35f9FtxJEPlb1_l",
+        "color": "purple",
+        "size": "xl",
+        "key": "purple-xl",
+        "quantity": 48
+      },
+      {
+        "id": "9A9MOAoo52iEYCUsykbZp",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 44
+      },
+      {
+        "id": "0n4VdVVcsW_ofcu7gLOF1",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 21
+      },
+      {
+        "id": "4hkF9NbI4ZZtayZscH7MH",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 31
+      },
+      {
+        "id": "6wikFYskiN2vjRU2eyL_K",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 62
+      },
+      {
+        "id": "YrM0fNn32R3txm2S5JQPt",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 27
+      }
+    ],
+    "createdAt": 1746372586444,
+    "editedAt": 1746372586444
+  },
+  {
+    "id": "-L9xtpW6RG193CyqsdqGX",
+    "title": "OrbitHalo",
+    "slug": "orbithalo",
+    "demographic": "men",
+    "type": "tee",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the OrbitHalo tee. Crafted for comfort and performance, it’s perfect for workouts or casual outings."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la camiseta OrbitHalo. Diseñada para comodidad y rendimiento, ideal para entrenamientos o salidas casuales."
+      }
+    ],
+    "keywords": [
+      "men",
+      "tee",
+      "pink",
+      "brown",
+      "red"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "muG35OtWwif6ITrFNE8Qf",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 52
+      },
+      {
+        "id": "XMDkJSvsaNlP-DmN5Cc6G",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 60
+      },
+      {
+        "id": "23fY1RONIUQsiXk_ZUcNy",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 38
+      },
+      {
+        "id": "8Yhklz0-hD0FLwYSyW-rA",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 42
+      },
+      {
+        "id": "O9QqJWWnR5SitekH1PDln",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 31
+      },
+      {
+        "id": "MjToDXXn6P0nMuVWjqbbZ",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 44
+      },
+      {
+        "id": "yVW6DCXjEX2uaCHQlojsf",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 67
+      },
+      {
+        "id": "DCkePucoICQq1X00PPUfd",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 15
+      },
+      {
+        "id": "apnjAlhLrX_lXQkEXIGSX",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 28,
+        "isPrimary": true
+      },
+      {
+        "id": "9gBmH-aDq8Kp5wZKGJcJE",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 32
+      },
+      {
+        "id": "YuG102LIMZtrBmx5iuZ3x",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 43
+      },
+      {
+        "id": "gKz8PVZrYgq3MiOzRzgsl",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 2
+      },
+      {
+        "id": "bD2XaEGm3hLJG2IJmxwn0",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 53
+      },
+      {
+        "id": "KDuPrd08TBQHeeFX4e2za",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 7
+      },
+      {
+        "id": "BPUVGeAx_UHtiQgz7_hI_",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 3
+      }
+    ],
+    "createdAt": 1746372673532,
+    "editedAt": 1746372673532
+  },
+  {
+    "id": "Oy0NRn3GLvo8pl_6wqFVB",
+    "title": "SonicAura",
+    "slug": "sonicaura",
+    "demographic": "women",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the SonicAura sweatshirt—crafted for comfort, performance, and a sleek, modern look."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera SonicAura: diseñada para la comodidad, el rendimiento y un aspecto moderno y elegante."
+      }
+    ],
+    "keywords": [
+      "best-seller",
+      "women",
+      "sweatshirt",
+      "white",
+      "blue",
+      "red"
+    ],
+    "price": 60,
+    "variants": [
+      {
+        "id": "5qVIFkJkyRinGZMtt9wpt",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 48
+      },
+      {
+        "id": "4_ZS5cLExFJRO_4_NLSjP",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 44
+      },
+      {
+        "id": "fpGALUIn_ZCDWQxKMUA7Z",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 48
+      },
+      {
+        "id": "v2obUIfszi9s843IWzOAc",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 24
+      },
+      {
+        "id": "AEtq9FMf1SeQZr7I8E3Bs",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 31
+      },
+      {
+        "id": "NnRG2h-AoGpUm9mw8hKPK",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 68,
+        "isPrimary": true
+      },
+      {
+        "id": "ieXN8OaT-aorQsbbtJKlN",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 21
+      },
+      {
+        "id": "_iejFBndDSljNaTN_de_t",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 39
+      },
+      {
+        "id": "hhObVj9ESD1Zobb94QvbD",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 48
+      },
+      {
+        "id": "3uLCohfyPPHLGoX7OTVGc",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 74
+      },
+      {
+        "id": "WX4-ejdGNf-Y54JtG7qEr",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 9
+      },
+      {
+        "id": "BSqhTcel8pbeng-IykLog",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 60
+      },
+      {
+        "id": "xNVX-U_v3ehMDbBOoI0DJ",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 59
+      },
+      {
+        "id": "09HsKBcjz0PG1gMl7H47E",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 5
+      },
+      {
+        "id": "QYvTc3TtNWBDNKjogWZt0",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 11
+      }
+    ],
+    "createdAt": 1746372718789,
+    "editedAt": 1746372718789
+  },
+  {
+    "id": "SPV2eMdVHsbTRglM69ePz",
+    "title": "OrbitVolt",
+    "slug": "orbitvolt",
+    "demographic": "women",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the OrbitVolt sweatshirt. Crafted for comfort and performance, it’s perfect for any active lifestyle."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera OrbitVolt. Diseñada para la comodidad y el rendimiento, es perfecta para un estilo de vida activo."
+      }
+    ],
+    "keywords": [
+      "women",
+      "sweatshirt",
+      "white",
+      "brown",
+      "beige"
+    ],
+    "price": 80,
+    "variants": [
+      {
+        "id": "RqQBZWyoedR6zncZsblPM",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 12
+      },
+      {
+        "id": "_CVaxgTMsAw2IFVWXqea4",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 56
+      },
+      {
+        "id": "LYIJch_evfgDb1Ud8PTYC",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 58
+      },
+      {
+        "id": "Jcb4MYjpV3LYKOYuSE7Md",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 63
+      },
+      {
+        "id": "b0BpYuyUjZNHGySv_QHj5",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 32,
+        "isPrimary": true
+      },
+      {
+        "id": "w9znicquSm5EwcO7lNz1z",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 50
+      },
+      {
+        "id": "gzHoKvd7Knp0FMAM_RzNi",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 30
+      },
+      {
+        "id": "5_mmxfHqJ42g83reser0O",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 17
+      },
+      {
+        "id": "ua-rrIcSewawY6gsoZpo0",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 26
+      },
+      {
+        "id": "uLmHoU1DfrVzw7wKDLd12",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 34
+      },
+      {
+        "id": "WD6BU3erBKDHgx_ez_SJB",
+        "color": "beige",
+        "size": "xs",
+        "key": "beige-xs",
+        "quantity": 17
+      },
+      {
+        "id": "Tp1oiGQAClW7ckAlTui6n",
+        "color": "beige",
+        "size": "sm",
+        "key": "beige-sm",
+        "quantity": 51
+      },
+      {
+        "id": "vJcCbsy9D3N0tPOOrUmIn",
+        "color": "beige",
+        "size": "md",
+        "key": "beige-md",
+        "quantity": 23
+      },
+      {
+        "id": "v51_0-vpAgOMjfrAgwosg",
+        "color": "beige",
+        "size": "lg",
+        "key": "beige-lg",
+        "quantity": 73
+      },
+      {
+        "id": "W-V7C1-GT_r880DkqgWoB",
+        "color": "beige",
+        "size": "xl",
+        "key": "beige-xl",
+        "quantity": 55
+      }
+    ],
+    "createdAt": 1746381571237,
+    "editedAt": 1746381571237
+  },
+  {
+    "id": "BTRWzO4CaOkChEIxCXJjQ",
+    "title": "LumaCloud",
+    "slug": "lumacloud",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the LumaCloud jacket—where premium comfort meets sleek design for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la chaqueta LumaCloud: donde la comodidad premium se encuentra con un diseño elegante para cada aventura."
+      }
+    ],
+    "keywords": [
+      "unisex",
+      "jacket",
+      "red",
+      "white",
+      "blue"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "GzZB4MKRvKsMHWmXKPNdn",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 50
+      },
+      {
+        "id": "3koWKwXbpBSxbiIODlxzK",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 36
+      },
+      {
+        "id": "ifmKQDYG9km0hxSN6bxUs",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 15
+      },
+      {
+        "id": "qpMWuqAuqUbk27BJOkF-o",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 75
+      },
+      {
+        "id": "w78EgrR4T4BHGFAAFHUVm",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 72
+      },
+      {
+        "id": "YVJTYUKwrMcazB7H1Ci_u",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 10
+      },
+      {
+        "id": "Sktma7t4l_UX6YEbiPf7b",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 25
+      },
+      {
+        "id": "VRLlaptShwTMQ31DWWQjL",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 36
+      },
+      {
+        "id": "MzVf26Ep_yTmi2912Oj_D",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 36,
+        "isPrimary": true
+      },
+      {
+        "id": "GhDMSoVrJxBA10GJtBT_T",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 24
+      },
+      {
+        "id": "idwCwNfrVyUouz6CMFa08",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 63
+      },
+      {
+        "id": "3uOJh7E2hg8_fWnIS4FB9",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 23
+      },
+      {
+        "id": "7SvQxrYVMTLrrz7lcCXut",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 0
+      },
+      {
+        "id": "1jiKhVP9TyvN-Y5Wsw8GH",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 74
+      },
+      {
+        "id": "P28ZeDBfjcOUU8_xoXgSj",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 69
+      }
+    ],
+    "createdAt": 1746387632130,
+    "editedAt": 1746387632130
+  },
+  {
+    "id": "sQl2A2eM3td3nV5IGBKF4",
+    "title": "CloudPrism",
+    "slug": "cloudprism",
+    "demographic": "men",
+    "type": "parka",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your outdoor experience with the CloudPrism parka. Premium warmth, sleek design, and unmatched comfort for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu experiencia al aire libre con la parka CloudPrism. Calidez premium, diseño elegante y comodidad inigualable para cada aventura."
+      }
+    ],
+    "keywords": [
+      "best-seller",
+      "men",
+      "parka",
+      "blue",
+      "gray",
+      "black"
+    ],
+    "price": 60,
+    "variants": [
+      {
+        "id": "4m9PFZEgSQz914OcW3tAy",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 18
+      },
+      {
+        "id": "Q7UBWSznejGmKSGPDVeP3",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 48
+      },
+      {
+        "id": "yTmkzDDc-wAS25Gswl52n",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 20
+      },
+      {
+        "id": "J5MBD1dKpIRVMZJ_paZsC",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 62
+      },
+      {
+        "id": "AUm7c1tYslpLqS4TgHxVM",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 1
+      },
+      {
+        "id": "hVFlCARpnjYAB_mQJUtaj",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 9
+      },
+      {
+        "id": "X2lwlUIkKY6E_FkmEcCsQ",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 15
+      },
+      {
+        "id": "vUhHJZGbE-mF0wPjW8-Sm",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 29
+      },
+      {
+        "id": "Mgv67T4ofERBImLnXmq1S",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 15
+      },
+      {
+        "id": "Iey9eNLmkny2DNvdjRxWu",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 6,
+        "isPrimary": true
+      },
+      {
+        "id": "dNinKihDS0WZb0JGxJSBZ",
+        "color": "black",
+        "size": "xs",
+        "key": "black-xs",
+        "quantity": 37
+      },
+      {
+        "id": "7xEF58TK4cZ9uBDQkQK26",
+        "color": "black",
+        "size": "sm",
+        "key": "black-sm",
+        "quantity": 4
+      },
+      {
+        "id": "H1p5TB-EsAfV9wG3lG9Tx",
+        "color": "black",
+        "size": "md",
+        "key": "black-md",
+        "quantity": 59
+      },
+      {
+        "id": "iJO0wzbU-1aJaZYj-_smZ",
+        "color": "black",
+        "size": "lg",
+        "key": "black-lg",
+        "quantity": 40
+      },
+      {
+        "id": "DcvB919m6UpE94QeHYA0a",
+        "color": "black",
+        "size": "xl",
+        "key": "black-xl",
+        "quantity": 66
+      }
+    ],
+    "createdAt": 1746387662646,
+    "editedAt": 1746387662646
+  },
+  {
+    "id": "hDEmrY9wks3xK4jLq5cmW",
+    "title": "ZenithSync",
+    "slug": "zenithsync",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the ZenithSync jacket—where premium comfort meets sleek design for every adventure."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la chaqueta ZenithSync: donde la comodidad premium se encuentra con un diseño elegante para cada aventura."
+      }
+    ],
+    "keywords": [
+      "unisex",
+      "jacket",
+      "beige",
+      "brown",
+      "blue"
+    ],
+    "price": 140,
+    "variants": [
+      {
+        "id": "2DQlr4c42SBNUwIg9x_Iu",
+        "color": "beige",
+        "size": "xs",
+        "key": "beige-xs",
+        "quantity": 60
+      },
+      {
+        "id": "MveOh2FNngbNInxhQJep9",
+        "color": "beige",
+        "size": "sm",
+        "key": "beige-sm",
+        "quantity": 23
+      },
+      {
+        "id": "oQPYJ0E74sY4Oz6tawX0t",
+        "color": "beige",
+        "size": "md",
+        "key": "beige-md",
+        "quantity": 5
+      },
+      {
+        "id": "vbmr9qtl8X8bZ0Pr_H3y4",
+        "color": "beige",
+        "size": "lg",
+        "key": "beige-lg",
+        "quantity": 72
+      },
+      {
+        "id": "-Ic6Re3XpObmjP3yb5p31",
+        "color": "beige",
+        "size": "xl",
+        "key": "beige-xl",
+        "quantity": 41
+      },
+      {
+        "id": "L3R7wiFfWkTxykHnWAK0w",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 46
+      },
+      {
+        "id": "kTrgt7kfLtFid9oi-sY0C",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 0
+      },
+      {
+        "id": "D06p6eMMmoMk3YAXY-EIe",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 44
+      },
+      {
+        "id": "p7Pe85ojQ9_RfLnb20S4J",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 68
+      },
+      {
+        "id": "zmylt59kjKBTr1IXxqaAk",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 14
+      },
+      {
+        "id": "HYMAm9cvyYMFaVt5cpKU4",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 71
+      },
+      {
+        "id": "VgGKtxkFNSeYC87w0CPfG",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 23
+      },
+      {
+        "id": "cf-JLSv5mkhk3SBpmt5mc",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 75,
+        "isPrimary": true
+      },
+      {
+        "id": "S9QF0bxIoqd2L4ObR7I_O",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 52
+      },
+      {
+        "id": "eJjY0p6di8EWOIy3nqzfo",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 41
+      }
+    ],
+    "createdAt": 1746639206923,
+    "editedAt": 1746639206923
+  },
+  {
+    "id": "_304BoYmc9GJTWC67TR-N",
+    "title": "SwiftPulse",
+    "slug": "swiftpulse",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your performance with the SwiftPulse jacket, engineered for breathability and agility in every stride."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu rendimiento con la chaqueta SwiftPulse, diseñada para la transpirabilidad y agilidad en cada paso."
+      }
+    ],
+    "keywords": [
+      "unisex",
+      "jacket",
+      "orange",
+      "red",
+      "white"
+    ],
+    "price": 60,
+    "variants": [
+      {
+        "id": "nFcROedfB3BZ73hTBeqaq",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 16
+      },
+      {
+        "id": "RyWkbaLL7db4NP9J7KQKT",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 2
+      },
+      {
+        "id": "BijFj_TnpA9cQN7tcunuU",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 65
+      },
+      {
+        "id": "YTyjalGw10s_U3fFq9vJh",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 26
+      },
+      {
+        "id": "miM9RjuYvsJS7zfftbo0H",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 0
+      },
+      {
+        "id": "kcHBbjFw7DXvifMti0uhb",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 63
+      },
+      {
+        "id": "lK6aOetrkHJuCrkcLxs0T",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 51
+      },
+      {
+        "id": "NQGlqNQIV05_DjEjLh9xH",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 37
+      },
+      {
+        "id": "bFJqHbWZ5grml5QlIRkmw",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 24
+      },
+      {
+        "id": "PKz1PucuWfqVSau35vJDY",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 62
+      },
+      {
+        "id": "BiYZwExFI_Jy9vsghf0V0",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 35
+      },
+      {
+        "id": "qjpAR3yq1X2YDuKgTMkE_",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 4
+      },
+      {
+        "id": "Ep3njKfmbRQaSEXyC-zr1",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 40
+      },
+      {
+        "id": "eJocjVNfYw3QOaNS1V-8o",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 7,
+        "isPrimary": true
+      },
+      {
+        "id": "dD-T2dA2vFJtWKonarqq4",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 9
+      }
+    ],
+    "createdAt": 1746639328294,
+    "editedAt": 1746639328294
+  },
+  {
+    "id": "qP88UjfcFBIKdHr4bIT37",
+    "title": "HaloLuma",
+    "slug": "haloluma",
+    "demographic": "men",
+    "type": "hoodie",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the HaloLuma hoodie, featuring moisture-wicking fabric and ergonomic design for ultimate comfort."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera HaloLuma, que cuenta con tejido que absorbe la humedad y un diseño ergonómico para máxima comodidad."
+      }
+    ],
+    "keywords": [
+      "best-seller",
+      "men",
+      "hoodie",
+      "brown",
+      "green",
+      "red"
+    ],
+    "price": 60,
+    "variants": [
+      {
+        "id": "Q4qR3Z2HROU8Ry2Di92Ie",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 4
+      },
+      {
+        "id": "HcOv5F_YjuvjsvNtwOPPg",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 67
+      },
+      {
+        "id": "mXOnN69bQ5NWPs52wecKo",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 46
+      },
+      {
+        "id": "FtHXbJUga96ZvWyRjcrVm",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 61,
+        "isPrimary": true
+      },
+      {
+        "id": "1U3g5uDOakNCBMbafq4lq",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 68
+      },
+      {
+        "id": "b0xgJ-K9X0f8X3SPynmFO",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 45
+      },
+      {
+        "id": "1YMgXMEqFKGzwyS7tqmvz",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 73
+      },
+      {
+        "id": "w856pBgA0TWfl23ysdW92",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 25
+      },
+      {
+        "id": "UPYzjKx3RKF-2ArIlgnKE",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 49
+      },
+      {
+        "id": "0N_qZS1eGcUqNyrgilerh",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 58
+      },
+      {
+        "id": "ZJYR10H8SxvFd6wv_Mehe",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 74
+      },
+      {
+        "id": "PXlglYvcZONDPO-RAXuMX",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 74
+      },
+      {
+        "id": "ZB408XAkv-oDVbyH8SW0W",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 13
+      },
+      {
+        "id": "jpwgS1USEbJ5-NfWLYYYA",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 66
+      },
+      {
+        "id": "grn5pTthNDLcKPsDmh2bE",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 13
+      }
+    ],
+    "createdAt": 1746639425902,
+    "editedAt": 1746639425902
+  },
+  {
+    "id": "_49-RELgB1qpUb44Xxi6-",
+    "title": "FlexSage",
+    "slug": "flexsage",
+    "demographic": "youth",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the FlexSage youth jacket: lightweight, breathable, and water-resistant, perfect for active adventures."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la chaqueta FlexSage para jóvenes: ligera, transpirable y resistente al agua, ideal para aventuras activas."
+      }
+    ],
+    "keywords": [
+      "youth",
+      "jacket",
+      "black",
+      "white",
+      "orange"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "8-rAcneWbLR4tNXYZWyl4",
+        "color": "black",
+        "size": "xs",
+        "key": "black-xs",
+        "quantity": 44
+      },
+      {
+        "id": "nxrRj-JTlc8GATOvU_05y",
+        "color": "black",
+        "size": "sm",
+        "key": "black-sm",
+        "quantity": 32
+      },
+      {
+        "id": "uud7NaArocAQpm8KPugBF",
+        "color": "black",
+        "size": "md",
+        "key": "black-md",
+        "quantity": 42
+      },
+      {
+        "id": "2_-oyNnvsm7TwGSimYlOp",
+        "color": "black",
+        "size": "lg",
+        "key": "black-lg",
+        "quantity": 6
+      },
+      {
+        "id": "LwNdmX_mKefTYHntIMiDN",
+        "color": "black",
+        "size": "xl",
+        "key": "black-xl",
+        "quantity": 73
+      },
+      {
+        "id": "kPghA1YViU43M6LGTpFfa",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 1
+      },
+      {
+        "id": "A37TwhVWSTS7q42ip45f_",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 2
+      },
+      {
+        "id": "rTPQcTu9_y4Qezp4NbY5Y",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 47
+      },
+      {
+        "id": "e_siRlNlGfBK_mxuFqNwN",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 0
+      },
+      {
+        "id": "xZ0zswCf55Eik6n7FHkB5",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 20
+      },
+      {
+        "id": "boRq369gxWabl6-nkl4ex",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 20
+      },
+      {
+        "id": "1EElIEWcp5bscE3bI7ADC",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 36,
+        "isPrimary": true
+      },
+      {
+        "id": "EeI83DeqZ-9_b2NTn3AuZ",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 49
+      },
+      {
+        "id": "u9kSH6PFVUI8jskti9X5g",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 72
+      },
+      {
+        "id": "ox_T-rqdmEouHLlKt7nej",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 34
+      }
+    ],
+    "createdAt": 1746639466246,
+    "editedAt": 1746639466246
+  },
+  {
+    "id": "9dzUuMRLeI-DoeNNiWM1Q",
+    "title": "AuraNova",
+    "slug": "auranova",
+    "demographic": "men",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the AuraNova sweatshirt, crafted from moisture-wicking fabric for ultimate comfort and performance."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera AuraNova, confeccionada con tejido que absorbe la humedad para una comodidad y rendimiento óptimos."
+      }
+    ],
+    "keywords": [
+      "men",
+      "sweatshirt",
+      "blue",
+      "red",
+      "brown"
+    ],
+    "price": 100,
+    "variants": [
+      {
+        "id": "AW1HBUus9uRIFKKlAdPi7",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 52
+      },
+      {
+        "id": "Frub1GtaCKvQKSWFnPoQC",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 42
+      },
+      {
+        "id": "vHv7lb-h6GI1yNdQCI-uD",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 66
+      },
+      {
+        "id": "MwxnsmMW5PS5kP0u2-gHF",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 23
+      },
+      {
+        "id": "zXNkcuMF9r60n0Jdzcd94",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 50
+      },
+      {
+        "id": "eHFJdNzbS2qU0wIS4mc2o",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 11
+      },
+      {
+        "id": "SxBE-M1n4hb0J8R3n1Bog",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 53
+      },
+      {
+        "id": "NYNhf3S6DsyXMlgoO2evN",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 30
+      },
+      {
+        "id": "uklzQitlqSeSpQSAhNpcn",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 60
+      },
+      {
+        "id": "OAkp1_9a633xUGSgDqin5",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 5
+      },
+      {
+        "id": "uH6eZS7VQmmhOEbr73C3E",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 14
+      },
+      {
+        "id": "fs67gZzC18bvsI8bvpoFs",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 42
+      },
+      {
+        "id": "KmzevPEeE37WChEuKWU0Z",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 44
+      },
+      {
+        "id": "tB6vdloaWQe_JJs2QHGmh",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 47
+      },
+      {
+        "id": "PJSGDhogu4EB60xbHQ_o9",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 69,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746640474806,
+    "editedAt": 1746640474806
+  },
+  {
+    "id": "6ybF9gwsqzFGBCNbB_tYm",
+    "title": "AxisSpark",
+    "slug": "axisspark",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the AxisSpark jacket: lightweight, breathable, and water-resistant, perfect for active lifestyles and urban adventures."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la chaqueta AxisSpark: ligera, transpirable y resistente al agua, ideal para estilos de vida activos y aventuras urbanas."
+      }
+    ],
+    "keywords": [
+      "new-arrival",
+      "unisex",
+      "jacket",
+      "gray",
+      "green",
+      "pink"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "N7NMBQPaRLbodFbX2aktR",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 18
+      },
+      {
+        "id": "4Mr_2Ax9sLfpqZjSwlsJd",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 66
+      },
+      {
+        "id": "R5GNsSE8FcNkWwFsPWoyt",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 74
+      },
+      {
+        "id": "3sp1_K5KPZd-tE9jfDiEI",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 34,
+        "isPrimary": true
+      },
+      {
+        "id": "CA0xNKf_U8uOY7vXPpX62",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 48
+      },
+      {
+        "id": "A6HuVWJnwdZg8S9qDIOgI",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 63
+      },
+      {
+        "id": "BVYI4EygQy81kwEmTCoGe",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 6
+      },
+      {
+        "id": "Q_2El5K3HNA8Y_28xeQ71",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 17
+      },
+      {
+        "id": "zIz0kyaYFo90LHjsyCM31",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 31
+      },
+      {
+        "id": "xo6dsD9270q-k5c0XANpZ",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 63
+      },
+      {
+        "id": "6T9jnJ52PJxfidORY_C2Y",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 22
+      },
+      {
+        "id": "g8kjbMCEgG680rFejf6LT",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 23
+      },
+      {
+        "id": "5kHjMEojt5k9t-UvU96m1",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 60
+      },
+      {
+        "id": "uLzJy9dnvkm-hHV_frSdF",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 9
+      },
+      {
+        "id": "NvXRJWX_q9gV1b_i8sIGG",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 14
+      }
+    ],
+    "createdAt": 1746640483814,
+    "editedAt": 1746640483814
+  },
+  {
+    "id": "jV7ntFclXGEek3ho74eLP",
+    "title": "FluxQuantum",
+    "slug": "fluxquantum",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the FluxQuantum jacket: engineered for performance with breathable fabric, water resistance, and a sleek, ergonomic fit."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la chaqueta FluxQuantum: diseñada para el rendimiento con tejido transpirable, resistencia al agua y un ajuste ergonómico."
+      }
+    ],
+    "keywords": [
+      "new-arrival",
+      "unisex",
+      "jacket",
+      "purple",
+      "beige",
+      "orange"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "KB1ddqtNgG1sNhknnfjt6",
+        "color": "purple",
+        "size": "xs",
+        "key": "purple-xs",
+        "quantity": 36
+      },
+      {
+        "id": "dwHBX1th5UTV_BYOajt2X",
+        "color": "purple",
+        "size": "sm",
+        "key": "purple-sm",
+        "quantity": 6
+      },
+      {
+        "id": "OAymxvcHo2arm1kwdbLoH",
+        "color": "purple",
+        "size": "md",
+        "key": "purple-md",
+        "quantity": 24
+      },
+      {
+        "id": "jCZcFTuFjzRq9V-xZfmnx",
+        "color": "purple",
+        "size": "lg",
+        "key": "purple-lg",
+        "quantity": 61
+      },
+      {
+        "id": "MhafBMDX1UKlGU6mQZulG",
+        "color": "purple",
+        "size": "xl",
+        "key": "purple-xl",
+        "quantity": 40
+      },
+      {
+        "id": "dfENyO5TNli9Qg1FfcHLx",
+        "color": "beige",
+        "size": "xs",
+        "key": "beige-xs",
+        "quantity": 28
+      },
+      {
+        "id": "1uaXxyGmux9i_KmXr_65P",
+        "color": "beige",
+        "size": "sm",
+        "key": "beige-sm",
+        "quantity": 74
+      },
+      {
+        "id": "8383R2A_AGg-OVpfZgUQx",
+        "color": "beige",
+        "size": "md",
+        "key": "beige-md",
+        "quantity": 31
+      },
+      {
+        "id": "Mocmc3RMAUGHjpV_ZfemY",
+        "color": "beige",
+        "size": "lg",
+        "key": "beige-lg",
+        "quantity": 28
+      },
+      {
+        "id": "VUQZCvGyoBlRufoVcnYs-",
+        "color": "beige",
+        "size": "xl",
+        "key": "beige-xl",
+        "quantity": 50
+      },
+      {
+        "id": "lPLI36ZyU5GfTFawLa1ij",
+        "color": "orange",
+        "size": "xs",
+        "key": "orange-xs",
+        "quantity": 3
+      },
+      {
+        "id": "EFw7XjWh8z-4ZSlPi7LK-",
+        "color": "orange",
+        "size": "sm",
+        "key": "orange-sm",
+        "quantity": 42
+      },
+      {
+        "id": "iaxRrjCvIjhv1tuBg5Jp7",
+        "color": "orange",
+        "size": "md",
+        "key": "orange-md",
+        "quantity": 18
+      },
+      {
+        "id": "Fxru6RrlmzEOrMXXcBTbf",
+        "color": "orange",
+        "size": "lg",
+        "key": "orange-lg",
+        "quantity": 42
+      },
+      {
+        "id": "C4TGbm0YRcGUXO-cjlXr7",
+        "color": "orange",
+        "size": "xl",
+        "key": "orange-xl",
+        "quantity": 51,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746640497792,
+    "editedAt": 1746640497792
+  },
+  {
+    "id": "7s0Q1aKpGcHxcWvhCAIPc",
+    "title": "SparkHalo",
+    "slug": "sparkhalo",
+    "demographic": "unisex",
+    "type": "jacket",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the SparkHalo jacket: lightweight, water-resistant, and breathable, perfect for active lifestyles and urban adventures."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la chaqueta SparkHalo: ligera, resistente al agua y transpirable, ideal para estilos de vida activos y aventuras urbanas."
+      }
+    ],
+    "keywords": [
+      "new-arrival",
+      "unisex",
+      "jacket",
+      "brown",
+      "green",
+      "black"
+    ],
+    "price": 40,
+    "variants": [
+      {
+        "id": "zN0p2ICsX8YofkFsLC7C9",
+        "color": "brown",
+        "size": "xs",
+        "key": "brown-xs",
+        "quantity": 20
+      },
+      {
+        "id": "A-b6l8CNLRVmPB_A3O2RF",
+        "color": "brown",
+        "size": "sm",
+        "key": "brown-sm",
+        "quantity": 48
+      },
+      {
+        "id": "Rab87JMslqOZ7XV3tualX",
+        "color": "brown",
+        "size": "md",
+        "key": "brown-md",
+        "quantity": 31
+      },
+      {
+        "id": "jzR2JU2WUtf2KUR-_C887",
+        "color": "brown",
+        "size": "lg",
+        "key": "brown-lg",
+        "quantity": 40
+      },
+      {
+        "id": "HcZ1xoHVVMqlnT4Yr1NlO",
+        "color": "brown",
+        "size": "xl",
+        "key": "brown-xl",
+        "quantity": 68
+      },
+      {
+        "id": "vA408Ihhlndbo82BSGhh4",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 51
+      },
+      {
+        "id": "OtsIGXgoX9h3as9pXjo1X",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 5
+      },
+      {
+        "id": "x70A0G8Utn2isJcOqyw1D",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 7
+      },
+      {
+        "id": "12RgyWEfCoaE7zlzwzUSa",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 70
+      },
+      {
+        "id": "LdM9K3KsQsqzd8JY0lqnB",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 13
+      },
+      {
+        "id": "raeb_5iF3SwXUWX8DrSIo",
+        "color": "black",
+        "size": "xs",
+        "key": "black-xs",
+        "quantity": 9
+      },
+      {
+        "id": "393C2DNWMVOFpiGB-gVqg",
+        "color": "black",
+        "size": "sm",
+        "key": "black-sm",
+        "quantity": 10,
+        "isPrimary": true
+      },
+      {
+        "id": "nEBfHm-zEFDVcJzuTbyHT",
+        "color": "black",
+        "size": "md",
+        "key": "black-md",
+        "quantity": 61
+      },
+      {
+        "id": "ZX14naAcfOn27xT9I0_KI",
+        "color": "black",
+        "size": "lg",
+        "key": "black-lg",
+        "quantity": 70
+      },
+      {
+        "id": "TdIaAKbEq9jCvUK6pLFMa",
+        "color": "black",
+        "size": "xl",
+        "key": "black-xl",
+        "quantity": 34
+      }
+    ],
+    "createdAt": 1746642950213,
+    "editedAt": 1746642950213
+  },
+  {
+    "id": "EU34zJkIYm6arwz7ZGshT",
+    "title": "ApexSwift",
+    "slug": "apexswift",
+    "demographic": "youth",
+    "type": "hoodie",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Elevate your style with the ApexSwift hoodie, featuring moisture-wicking fabric and ergonomic design for ultimate comfort."
+      },
+      {
+        "lang": "es",
+        "value": "Eleva tu estilo con la sudadera ApexSwift, que cuenta con tejido que absorbe la humedad y un diseño ergonómico para máxima comodidad."
+      }
+    ],
+    "keywords": [
+      "new-arrival",
+      "youth",
+      "hoodie",
+      "red",
+      "beige",
+      "pink"
+    ],
+    "price": 40,
+    "variants": [
+      {
+        "id": "r2M8JuEGt3lkEoV4yjFXN",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 31
+      },
+      {
+        "id": "cufBd6GklP3WUm6APnDkg",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 58
+      },
+      {
+        "id": "fJw-qv8aZpqUyLBI-kIHG",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 43,
+        "isPrimary": true
+      },
+      {
+        "id": "jEAGQ4yHV04Mo5-nYHscm",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 1
+      },
+      {
+        "id": "TR2Iz3ACSfjEzqRps1Pyb",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 70
+      },
+      {
+        "id": "IvGrzf5QqDLgLJW2YzLGY",
+        "color": "beige",
+        "size": "xs",
+        "key": "beige-xs",
+        "quantity": 36
+      },
+      {
+        "id": "WcbaDherZOjVscMqzM0PG",
+        "color": "beige",
+        "size": "sm",
+        "key": "beige-sm",
+        "quantity": 18
+      },
+      {
+        "id": "2mT178L8Xwkkxq8vweUpC",
+        "color": "beige",
+        "size": "md",
+        "key": "beige-md",
+        "quantity": 65
+      },
+      {
+        "id": "EID4cJHX6WvjHYd-Kmzd9",
+        "color": "beige",
+        "size": "lg",
+        "key": "beige-lg",
+        "quantity": 62
+      },
+      {
+        "id": "LbWN3Lx3cae1XB9zpYQHj",
+        "color": "beige",
+        "size": "xl",
+        "key": "beige-xl",
+        "quantity": 75
+      },
+      {
+        "id": "PjqOngzx4LE3IUrLdKELG",
+        "color": "pink",
+        "size": "xs",
+        "key": "pink-xs",
+        "quantity": 44
+      },
+      {
+        "id": "MH9dcsBIy4Ol_IF2BGoTl",
+        "color": "pink",
+        "size": "sm",
+        "key": "pink-sm",
+        "quantity": 57
+      },
+      {
+        "id": "ju74A0_Eoc4CtGoCRqzDp",
+        "color": "pink",
+        "size": "md",
+        "key": "pink-md",
+        "quantity": 53
+      },
+      {
+        "id": "TSlFOhI7W7Zz1RPvfnvVO",
+        "color": "pink",
+        "size": "lg",
+        "key": "pink-lg",
+        "quantity": 8
+      },
+      {
+        "id": "Dd9lmbLolgoZ2O9huh-sG",
+        "color": "pink",
+        "size": "xl",
+        "key": "pink-xl",
+        "quantity": 16
+      }
+    ],
+    "createdAt": 1746642976268,
+    "editedAt": 1746642976268
+  },
+  {
+    "id": "d5TWYeH4862fBwRKyMcjI",
+    "title": "HyperEcho",
+    "slug": "hyperecho",
+    "demographic": "women",
+    "type": "parka",
+    "description": [
+      {
+        "lang": "en",
+        "value": "Introducing the HyperEcho parka: engineered for warmth with a sleek, water-resistant design, perfect for urban adventures."
+      },
+      {
+        "lang": "es",
+        "value": "Presentamos la parka HyperEcho: diseñada para brindar calidez con un estilo elegante y resistente al agua, ideal para la ciudad."
+      }
+    ],
+    "keywords": [
+      "new-arrival",
+      "women",
+      "parka",
+      "white",
+      "black",
+      "blue"
+    ],
+    "price": 60,
+    "variants": [
+      {
+        "id": "RevFVNBXA_lc0fX-x_zLi",
+        "color": "white",
+        "size": "xs",
+        "key": "white-xs",
+        "quantity": 38
+      },
+      {
+        "id": "IgwyCWiFD2HSi83dL47tD",
+        "color": "white",
+        "size": "sm",
+        "key": "white-sm",
+        "quantity": 32
+      },
+      {
+        "id": "xClLZoZBM8aGMlMh0UcP4",
+        "color": "white",
+        "size": "md",
+        "key": "white-md",
+        "quantity": 43
+      },
+      {
+        "id": "Mk6xhtOXUekRHFQOiH0AS",
+        "color": "white",
+        "size": "lg",
+        "key": "white-lg",
+        "quantity": 50
+      },
+      {
+        "id": "FjNMzVdFRWB6Mo7ddX-oF",
+        "color": "white",
+        "size": "xl",
+        "key": "white-xl",
+        "quantity": 24
+      },
+      {
+        "id": "BKj186jpfxU7hmtK18O0X",
+        "color": "black",
+        "size": "xs",
+        "key": "black-xs",
+        "quantity": 2
+      },
+      {
+        "id": "fwtUS-wEhd6MxzDSxi4y1",
+        "color": "black",
+        "size": "sm",
+        "key": "black-sm",
+        "quantity": 36
+      },
+      {
+        "id": "jbP3wNUmZzcW32IWrrtfh",
+        "color": "black",
+        "size": "md",
+        "key": "black-md",
+        "quantity": 34
+      },
+      {
+        "id": "wJV0PBLGQROAhUat_4fIf",
+        "color": "black",
+        "size": "lg",
+        "key": "black-lg",
+        "quantity": 61
+      },
+      {
+        "id": "_XudQdIbgbWfp6xyc51Fi",
+        "color": "black",
+        "size": "xl",
+        "key": "black-xl",
+        "quantity": 1
+      },
+      {
+        "id": "gkxTRg-Ze-2IT4phmCdhw",
+        "color": "blue",
+        "size": "xs",
+        "key": "blue-xs",
+        "quantity": 49
+      },
+      {
+        "id": "qS1ojMDaF4zzyCsyjwZMV",
+        "color": "blue",
+        "size": "sm",
+        "key": "blue-sm",
+        "quantity": 27
+      },
+      {
+        "id": "qkxPE-meoXA3W83roukqQ",
+        "color": "blue",
+        "size": "md",
+        "key": "blue-md",
+        "quantity": 29
+      },
+      {
+        "id": "PBAqGsysO1QmKg5t1hTA1",
+        "color": "blue",
+        "size": "lg",
+        "key": "blue-lg",
+        "quantity": 28
+      },
+      {
+        "id": "k_yRCIgTu7oOnysce872d",
+        "color": "blue",
+        "size": "xl",
+        "key": "blue-xl",
+        "quantity": 19,
+        "isPrimary": true
+      }
+    ],
+    "createdAt": 1746643043705,
+    "editedAt": 1746643043705
+  },
+  {
+    "id": "k5IoTJCnTwGdAzL1V1cxn",
+    "title": "RealmStride",
+    "slug": "realmstride",
+    "demographic": "women",
+    "type": "sweatshirt",
+    "description": [
+      {
+        "lang": "en",
+        "value": "RealmStride women’s sweatshirt features moisture-wicking, breathable fabric with ergonomic seams for optimal comfort and style."
+      },
+      {
+        "lang": "es",
+        "value": "Sudadera femenina RealmStride con tela transpirable y que absorbe la humedad, con costuras ergonómicas para máxima comodidad y estilo."
+      }
+    ],
+    "keywords": [
+      "women",
+      "sweatshirt",
+      "gray",
+      "red",
+      "green"
+    ],
+    "price": 120,
+    "variants": [
+      {
+        "id": "jrkqwLg6hFxvnEDTBHWFN",
+        "color": "gray",
+        "size": "xs",
+        "key": "gray-xs",
+        "quantity": 13
+      },
+      {
+        "id": "WzkziZu3sC1qcwCTyULcy",
+        "color": "gray",
+        "size": "sm",
+        "key": "gray-sm",
+        "quantity": 62
+      },
+      {
+        "id": "rFyfblgtH8XjrkExPwDPA",
+        "color": "gray",
+        "size": "md",
+        "key": "gray-md",
+        "quantity": 22
+      },
+      {
+        "id": "YrKSWIFECjIgfEzfAXqJM",
+        "color": "gray",
+        "size": "lg",
+        "key": "gray-lg",
+        "quantity": 6
+      },
+      {
+        "id": "_oC7-62TSJL8RR7xRjwaY",
+        "color": "gray",
+        "size": "xl",
+        "key": "gray-xl",
+        "quantity": 25
+      },
+      {
+        "id": "obrUxOOZUrMga_piY8mfk",
+        "color": "red",
+        "size": "xs",
+        "key": "red-xs",
+        "quantity": 0
+      },
+      {
+        "id": "GkQA96xPjvU6uJtcbCKiy",
+        "color": "red",
+        "size": "sm",
+        "key": "red-sm",
+        "quantity": 74
+      },
+      {
+        "id": "s884t4YIEyofbXLu0GIOl",
+        "color": "red",
+        "size": "md",
+        "key": "red-md",
+        "quantity": 74
+      },
+      {
+        "id": "43i1U8FBintvIvtV4jzlj",
+        "color": "red",
+        "size": "lg",
+        "key": "red-lg",
+        "quantity": 57
+      },
+      {
+        "id": "2nMwZzfk9fZTNxSXudCMj",
+        "color": "red",
+        "size": "xl",
+        "key": "red-xl",
+        "quantity": 24,
+        "isPrimary": true
+      },
+      {
+        "id": "99u8s_j9AbExhR9__O6sY",
+        "color": "green",
+        "size": "xs",
+        "key": "green-xs",
+        "quantity": 8
+      },
+      {
+        "id": "YUsx14ZEh7tLAI5TV7eBn",
+        "color": "green",
+        "size": "sm",
+        "key": "green-sm",
+        "quantity": 23
+      },
+      {
+        "id": "HFaiwAPAjtcIZkj2YtXB4",
+        "color": "green",
+        "size": "md",
+        "key": "green-md",
+        "quantity": 73
+      },
+      {
+        "id": "UF7uLLqBJOM6EfMF-fGbR",
+        "color": "green",
+        "size": "lg",
+        "key": "green-lg",
+        "quantity": 47
+      },
+      {
+        "id": "KKQpRtfftFXdCn8lBKqgz",
+        "color": "green",
+        "size": "xl",
+        "key": "green-xl",
+        "quantity": 47
+      }
+    ],
+    "createdAt": 1747500316723,
+    "editedAt": 1747500316723
+  }
+]
