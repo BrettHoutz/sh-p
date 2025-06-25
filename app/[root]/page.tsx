@@ -11,7 +11,7 @@ const content = {
   en: {
     description:
       'Discover premium products crafted for quality and style. Shop our exclusive collection with fast shipping, easy returns, and exceptional customer service guaranteed.',
-    title: 'Premium Products For Your Lifestyle',
+    title: 'Premium Products For The DU Fam',
   },
   es: {
     description:
